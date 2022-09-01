@@ -1,0 +1,1 @@
+CREATE USER usr_uan_prueba with login ENCRYPTED PASSWORD ?;
